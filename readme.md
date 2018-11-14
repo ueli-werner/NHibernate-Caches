@@ -18,6 +18,10 @@ It's recommended to research for a while before deciding which one is better for
 
 ## Notes
 
+#### NEW
+- Update NH from 4.0.1.4000 to 4.1.1.4000
+- Downgrade FW from 4.6.1 to 4.6
+
 #### Build 4.0.1GA for NHibernate 4.0.1GA
 
 #### Build 3.0.0.GA (rev1442 of contrib) for NHibernate 3.0.0CR1
