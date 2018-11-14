@@ -5,7 +5,7 @@
     <Product>NHibernate.Caches.MemCache</Product>
     <Description>Cache provider for NHibernate using MemCached.</Description>
 
-    <TargetFramework>net461</TargetFramework>
+    <TargetFramework>net46</TargetFramework>
     <SignAssembly>True</SignAssembly>
     <AssemblyOriginatorKeyFile>..\..\NHibernate.Caches.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>

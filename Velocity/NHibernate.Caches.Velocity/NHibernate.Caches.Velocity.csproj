@@ -5,7 +5,7 @@
     <Product>NHibernate.Caches.Velocity</Product>
     <Description>Cache provider for NHibernate using Velocity.</Description>
 
-    <TargetFramework>net461</TargetFramework>
+    <TargetFramework>net46</TargetFramework>
     <SignAssembly>True</SignAssembly>
     <AssemblyOriginatorKeyFile>..\..\NHibernate.Caches.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>

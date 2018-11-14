@@ -5,7 +5,7 @@
     <Product>NHibernate.Caches.Velocity</Product>
     <Description>Unit tests of cache provider for NHibernate using Velocity.</Description>
 
-    <TargetFramework>net461</TargetFramework>
+    <TargetFramework>net46</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
